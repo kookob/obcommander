@@ -50,7 +50,7 @@ look for tags that start with `win-`.
 
 - **Free for personal and home use** (non-commercial use) of the basic features — no account needed.
 - **Commercial use** — any use for a company or organisation, or for work, including freelance work — is free to evaluate for 30 days, then requires a paid licence for each user.
-- **Pro features** require a paid licence, including for personal use: the F3 viewer and Ctrl+Q quick view, browsing archives as folders, remembered folder sizes, folder compare, custom commands and remote SFTP. Try them free for 30 days from inside the app — no card, no account.
+- **Pro features** require a paid licence, including for personal use: the F3 viewer and Ctrl+Q quick view, browsing archives as folders, remembered folder sizes, folder compare, custom commands, remote SFTP, the integrated terminal, the unlocker, plugins, and layouts with more than two panes. Try them free for 30 days from inside the app — no card, no account.
 - One licence covers **2 computers** (say, work and home) and includes future updates. Licence holders get **email support**.
 - Activating or starting a trial contacts our licence server **once**; after that the licence is checked offline. (The update check at start-up is separate, sends no personal data and can be turned off.)
 
